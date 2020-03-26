@@ -18,6 +18,8 @@ wget --no-check-certificate https://linuxscript.oss-cn-shanghai.aliyuncs.com/qsy
 chmod +x SSR.sh
 ./SSR.sh 2>&1 | tee shadowsocksR.log
 
+#卸载：./SSR.sh uninstall
+
 #firewalld 服务基本使用
 1、firewall 与 iptables 一样都是服务，所以可以使用 systemctl 服务管理工具来操作
 

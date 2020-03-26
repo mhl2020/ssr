@@ -1,8 +1,10 @@
 # ssr
 支持Debian系统和Centos系统
 安装完成后输入 ssr 即可使用本程序
+
 #Debian系统用这个
 apt install unzip wget
+
 #or
 #Centos系统用这个
 yum install unzip wget 
